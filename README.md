@@ -1,2 +1,1 @@
-# Mia-AI
-Smart assistant.
+# Mia
